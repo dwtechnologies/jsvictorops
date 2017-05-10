@@ -1,0 +1,12 @@
+{
+	"name": "jsvictorops",
+	"version": "1.0.0",
+	"description": "An JavaScript implementation for VictorOps REST API",
+	"license": "MIT",
+	"repository": "github:dwtechnologies/jsvictorops",
+	"author": {
+		"name": "Anders Wallin",
+		"email": "anders.wallin@danielwellington.com"
+	},
+	"main": "api.js"
+}
